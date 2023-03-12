@@ -5,7 +5,7 @@ import React from 'react'
 // * Traditional green comment
 // ? What the hell am I doing?
 function SomeComponent() {
-    return <p>New branch change</p>
+    return <p>Another change</p>
 }
 
 export default SomeComponent
